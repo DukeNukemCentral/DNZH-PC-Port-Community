@@ -11,10 +11,11 @@ A Work in Progress PC port of Duke Nukem Zero Hour using decomp code. Since it m
 - Online Multiplayer netcode support and for NukemNet.
 - Keeping it vanilla as possbile with few small changes.
 
-## Contributors:
-- Snake Plissken from Outer Heaven Gaming
-
+## Contributors
 Since this is more a community like project anyone new is welcomed. 
+
+People helping out with project:
+- Snake Plissken from Outer Heaven Gaming
 
 If you'd like to contribute project, feel free to join [Duke Nukem Central](https://discord.gg/VMBfuXjFga) community. 
 To contact pc port team in zero hour modding channel.
