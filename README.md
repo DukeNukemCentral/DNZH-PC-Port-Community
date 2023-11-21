@@ -5,7 +5,7 @@ A Work in Progress PC port of Duke Nukem Zero Hour using decomp code. Since it m
 ## What's planned
 - Porting this to SDL since main DNZH code and build engine already there.
 - ZeroEditor, a forked Mapster32 for the Infinity Hour engine.
-- Modding Support and Deta X for compatibility.
+- Modding Support and Delta X for compatibility from N64 modding side.
 - Online Multiplayer netcode support and for NukemNet.
 
 ## Contributors:
