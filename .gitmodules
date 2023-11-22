@@ -1,0 +1,27 @@
+[submodule "tools/splat"]
+	path = tools/splat
+	url = https://github.com/ethteck/splat.git
+[submodule "libs/libultra"]
+	path = libs/libultra
+	url = https://github.com/Gillou68310/libreultra.git
+[submodule "libs/libkmc"]
+	path = libs/libkmc
+	url = https://github.com/Gillou68310/libkmc.git
+[submodule "libs/libmus"]
+	path = libs/libmus
+	url = https://github.com/Gillou68310/libmus.git
+[submodule "tools/asm-differ"]
+	path = tools/asm-differ
+	url = https://github.com/simonlindholm/asm-differ.git
+[submodule "tools/decomp-permuter"]
+	path = tools/decomp-permuter
+	url = https://github.com/simonlindholm/decomp-permuter.git
+[submodule "tools/mips-binutils-2.6"]
+	path = tools/mips-binutils-2.6
+	url = https://github.com/Gillou68310/mips-binutils-2.6.git
+[submodule "tools/mips-gcc-2.7.2"]
+	path = tools/mips-gcc-2.7.2
+	url = https://github.com/decompals/mips-gcc-2.7.2.git
+[submodule "tools/m2c"]
+	path = tools/m2c
+	url = https://github.com/matt-kempster/m2c.git

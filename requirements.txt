@@ -1,0 +1,13 @@
+n64img==0.3.0
+spimdisasm==1.14.1
+-r tools/splat/requirements.txt
+pycparser
+pynacl
+toml
+colorama
+watchdog
+python-Levenshtein
+GitPython
+colour
+debugpy
+requests
