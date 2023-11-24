@@ -4,8 +4,8 @@ A Work in Progress PC port of Duke Nukem Zero Hour using decomp code. Since it m
 
 ## What's planned
 Here a rough idea what is planned so far.
-- Porting this to SDL since main DNZH code and build engine already there.
-- Setup menu like eduke32 and JFduke has for loading up mods and set up settings.
+- Porting this to SDL or alternatively libultraship since main DNZH code and build engine already there.
+- Setup menu like eduke32 and JFduke has for loading up mods also set up settings.
 - Command line prompt style after quake.
 - ZeroEditor, a forked Mapster32 for the Infinity Hour engine.
 - PC Modding Support and Delta X for compatibility from N64 modding side.
