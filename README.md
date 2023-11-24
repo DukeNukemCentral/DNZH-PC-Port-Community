@@ -1,6 +1,6 @@
 # DNZH_InfinityHour-PC
 
-A Work in Progress PC port of Duke Nukem Zero Hour using decomp code. Since it modified version of Build Engine, the code is there. It just needs to be ported over SDL and requires some modification under the hood to help streamline moddding more easily. 
+A Work in Progress PC port of Duke Nukem Zero Hour using decomp code. Since it modified version of Build Engine, the code is there. It just needs to be ported over to some framework and requires some modification under the hood to help streamline moddding more easily. 
 
 ## What's planned
 Here a rough idea what is planned so far.
