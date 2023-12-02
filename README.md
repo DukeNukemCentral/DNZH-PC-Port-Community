@@ -21,7 +21,7 @@ If you're interested in contributing to the project or getting involved in maint
 You can hang out with modders and reach out to the PC port team in the Zero Hour Modding channel. Looking forward to having you on board!
 
 ## Credits
-If you'd like to see who involved in the project, click [here](Docs/credits-md) to check the credits.md file.
+If you'd like to see who involved in the project, click [here](Docs/CREDITS.md) to check the credits.md file.
 
 ## License
 Since this is Build Engine, please refer to the licensing information in docs. 
