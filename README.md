@@ -2,7 +2,7 @@
 
 A Work in Progress PC port of Duke Nukem Zero Hour using decomp code. Since it modified version of Build Engine, the code is there. It just needs to be ported over to some framework and requires some modification under the hood to help streamline moddding more easily. This is a community-driven project, and everyone is welcome to contribute help out anyway they can.
 
-Disclaimer: My programming expertise is limited, and my primary focus is on promoting the project and the modding scene. I am occasionally capable of handling small tasks. There's a possibility the project might be handed off to someone with advanced programming skills. I will see how far this will go being community project. Thank you for taking the time to read this, and I hope most of you understand!
+Disclaimer: My programming expertise is limited, and my primary focus is on promoting the project and the modding scene. I am occasionally capable of handling small tasks. There's a possibility the project will be work on by someone with advanced programming skills. I will see how far this will go being community project. Thank you for taking the time to read this, and I hope most of you understand!
 
 ## What's planned
 Here a rough idea what is planned so far.
@@ -14,16 +14,18 @@ Here a rough idea what is planned so far.
 - Online Multiplayer netcode support and for NukemNet.
 - Keeping it vanilla as possbile with few small changes.
 
-## Contributors
+## Getting Involved
 Since this is more a community like project anyone new is welcomed. 
 
-People helping out with project:
-- Snake Plissken from Outer Heaven Gaming
+If you're interested in contributing to the project or getting involved in maintaining the repository, feel free to join the [Duke Nukem Central](https://discord.gg/VMBfuXjFga) community. 
+You can hang out with modders and reach out to the PC port team in the Zero Hour Modding channel. Looking forward to having you on board!
 
-If you'd like to contribute project, feel free to join [Duke Nukem Central](https://discord.gg/VMBfuXjFga) community. 
-To contact pc port team in zero hour modding channel.
+## Credits
+If you'd like to see who involved in the project, click [here](Docs/credits-md) to check the credits.md file.
 
 ## License
 Since this is Build Engine, please refer to the licensing information in docs. 
 As for decomple team not sure what they want yet for code.
+
+
 
