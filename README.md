@@ -2,6 +2,8 @@
 
 A Work in Progress PC port of Duke Nukem Zero Hour using decomp code. Since it modified version of Build Engine, the code is there. It just needs to be ported over to some framework and requires some modification under the hood to help streamline moddding more easily. This is a community-driven project, and everyone is welcome to contribute help out anyway they can.
 
+Disclaimer: My programming expertise is limited, and my primary focus is on promoting the project and the modding scene. I am occasionally capable of handling small tasks. There's a possibility the project might be handed off to someone with advanced programming skills. I will see how far this will go being community project. Thank you for taking the time to read this, and I hope most of you understand!
+
 ## What's planned
 Here a rough idea what is planned so far.
 - Porting this to SDL or alternatively libultraship since main DNZH code and build engine already there.
